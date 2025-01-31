@@ -1,0 +1,1 @@
+This repository contains a simple Java program that demonstrates an ArithmeticException. The bug is caused by dividing an integer by zero.  The solution demonstrates how to handle this exception using a try-catch block.
